@@ -1,5 +1,7 @@
 # Global Temperature Anomaly Animation Using NASA GISTEMP Data
 
+[![DOI](https://zenodo.org/badge/744757501.svg)](https://zenodo.org/doi/10.5281/zenodo.10525717)
+
 This project is my attempt at creating a global animation using [matplotlib](https://github.com/matplotlib/matplotlib) animation functions, [xarray](https://github.com/pydata/xarray), [cartopy](https://github.com/SciTools/cartopy), and [NASA GISTEMP Data](https://data.giss.nasa.gov/gistemp/).
 
 This project is based off of [jmunroe's](https://github.com/jmunroe) [GISTEMPv4 notebook](https://github.com/jmunroe/OpenScienceExample_GISTEMPv4/blob/main/GISTEMPv4.ipynb). 
